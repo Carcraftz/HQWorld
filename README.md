@@ -17,9 +17,13 @@ https://twitter.com/thehqworld
 ![Themes](https://pbs.twimg.com/media/EUYLc3JXsAAlSu4?format=jpg&name=large)
 
 secretbluemode
+
 secretlightmode
+
 catalinalight
+
 catalinadark
+
 triviahub
 
 ![Discord Bot](https://cdn.discordapp.com/attachments/624785419577589771/694555554185609216/unknown.png)
