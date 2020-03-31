@@ -14,8 +14,8 @@ https://twitter.com/thehqworld
 ![Activesite](https://media.discordapp.net/attachments/568617830258442255/693990336791445644/unknown.png)
 
 **Website theme codes! (Themes can be applied in settings):**
+![Themes](https://pbs.twimg.com/media/EUYLc3JXsAAlSu4?format=jpg&name=large)
 
-![themes]https://pbs.twimg.com/media/EUYLc3JXsAAlSu4?format=jpg&name=large
 secretbluemode
 secretlightmode
 catalinalight
