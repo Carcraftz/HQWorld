@@ -1,7 +1,7 @@
 # HQWorld
 Free Bot For HQ Trivia. Uses crowdsource + google and AI to weight results. Answers (and google links) appear in the discord, and answers also show up LIVE on the website.
 
-UPDATE: At HQ Trivia's request, the bot has been taken down, and will stay down forever.
+UPDATE: At HQ Trivia's request (not very nice letter), the bot has been taken down, and will stay down forever.
 
 
 **Website Link:**
